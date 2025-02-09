@@ -30,9 +30,7 @@ This tool requires Python 3.x. You can download the latest version of Python fro
    python -m venv venv
    venv\Scripts\activate  # On Windows
    ```
-4. No additional dependencies are required, as the application relies on built-in Python libraries.
-
-5. Run the program:
+4. Run the program:
    ```bash
    python "DirectoryContentsLister.py"
    ```
