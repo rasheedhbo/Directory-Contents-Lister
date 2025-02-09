@@ -3,7 +3,7 @@
 
 ## About
 
-**DirectoryContentsLister** is a simple tool designed to list and organize the contents of a selected directory on a Windows system. The application sorts files by type (with folders listed first) and saves the list to a `.txt` file. It's perfect for organizing and keeping track of files and subfolders in any directory.
+**Directory Contents Lister** is a simple tool designed to list and organize the contents of a selected directory on a Windows system. The application sorts files by type (with folders listed first) and saves the list to a `.txt` file. It's perfect for organizing and keeping track of files and subfolders in any directory.
 
 ---
 
